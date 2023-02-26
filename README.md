@@ -1,7 +1,7 @@
 # Twitch-Emote-Converter
 Converts your images to the required emote sizes
 
-#TODO
+# TODO
 ```
 - When downloading image it is the original size not resized.
 - Next to select image show file location selected.
