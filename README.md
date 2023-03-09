@@ -6,4 +6,4 @@ Converts your images to the required emote sizes
 - When downloading image it is the original size not resized.
 ```
 # UI
-![2023-02-26_5](https://user-images.githubusercontent.com/104657171/221427449-97db05f4-b916-48a0-b221-edd103cdf54d.png)
+![2023-03-09](https://user-images.githubusercontent.com/104657171/224158332-eef7c564-f822-418b-9080-9930c8112087.png)
